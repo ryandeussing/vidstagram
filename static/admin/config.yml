@@ -2,8 +2,8 @@ backend:
   name: git-gateway
   branch: master
 
-site_url: https://theleakycauldronblog.com
-display_url: https://theleakycauldronblog.com
+site_url: https://blissful-leakey-b23f62.netlify.com
+display_url: https://blissful-leakey-b23f62.netlify.com
 logo_url: https://theleakycauldronblog.com/icons/icon-512x512.png
 publish_mode: editorial_workflow
 media_folder: static/img
